@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - João 👾</h1>
+<h1 align="center">Landing page - João 👾</h1>
 
 ![Imagem do projeto finalizado](projeto-landing-page.png)
 
