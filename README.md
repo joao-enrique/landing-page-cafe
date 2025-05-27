@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](projeto-landing-page.png)
 
-<h4 align="center"><a href="https://jedev1.github.io/landing-page-cafe/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://joao-enrique.github.io/landing-page-cafe/">Confira o projeto aqui</a></h4>
 
 ---
 
